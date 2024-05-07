@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @chenwangji
 - 👀 I’m interested in web and native developing.
-- 🌱 I’m currently learning android.
 - 📫 You can reach me at 694093637@qq.com.

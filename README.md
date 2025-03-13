@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @chenwangji
-- 👀 I’m interested in web and native developing.
-- 📫 You can reach me at 694093637@qq.com.
+- 👀 I’m interested in web and native developing
+- 📫 You can reach me at chenwangji19921028@gmail.com
